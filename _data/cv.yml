@@ -11,9 +11,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: BA in Information and Computer Engineering
+    - title: B.A. in Information and Computer Engineering
       institution: University of Cambridge, UK
-      year: 2020 - 2024
+      year: 2020.09 - 2024.06
+
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -26,8 +27,8 @@
   type: time_table
   contents:
     - title: Research Intern
-      institution: EPFL
-      year: 2023
+      institution: Swiss Federal Institute of Technology Lausanne (EPFL)
+      year: 2023.06 - 2023.09
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -36,9 +37,9 @@
       #       - Sub-description 1.
       #       - Sub-description 2.
     - title: Research Intern
-      institution: Microsoft Research Asia
-      year: 2022
-      description:
+      institution: Microsoft Research Asia (MSRA)
+      year: 2022.07 - 2022.10
+      # description:
 
 
 # - title: Open Source Projects

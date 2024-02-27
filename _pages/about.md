@@ -10,12 +10,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    # >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+    >
+    <p>University of Cambridge</p>
+    <p>yh463@cam.ac.uk</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +24,6 @@ Hi! I am a final-year undergraduate student at the University of Cambridge, majo
 
 Previously, I was a research intern at EPFL under the [Summer@EPFL](https://summer.epfl.ch/) program, advised by [Prof. Haitham Hassanieh (EPFL)](https://people.epfl.ch/haitham.alhassanieh/?lang=en) and [Prof. Saurabh Gupta (UIUC)](https://saurabhg.web.illinois.edu/). Before that, I was fortunate to intern at the Visual Computing Group in Microsoft Research Asia (MSRA) , collaborating with [Dr. Yuhui Yuan](https://www.microsoft.com/en-us/research/people/yuyua/) and [Dr. Han Hu](https://ancientmooner.github.io/). 
 
-**Research Interests**
-My research area lies at the intersection of Machine Learning, Computer Vision, and Wireless Sensing. Specifically, I am interested in Self-Supervised Learning and Generative Models that bridge 3D Vision with other modalities, including wireless, language, sound, etc. 
+**Research Interests** My research area lies broadly in Computer Vision, Wireless Sensing, Machine Learning and Robotics. Specifically, I am interested in Multi-Modal Learning and Generative AI for 2D/3D vision, language, wireless, and acoustics. I am also excited about their applications in robotics and autonomous driving. 
 
 **I am actively looking for a Ph.D. position in 2024 Fall.**

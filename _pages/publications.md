@@ -13,4 +13,6 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=S3dKFIJwNuzh0wCAgAqGr7PtHbhhxu2EdXix23yzRr8'></script>
+<div id="display_image" align="center">
+<a href='https://clustrmaps.com/site/1byf7'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=S3dKFIJwNuzh0wCAgAqGr7PtHbhhxu2EdXix23yzRr8'/></a>
+</div>

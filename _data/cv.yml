@@ -3,7 +3,9 @@
   contents:
     - name: Full Name
       value: Yiduo Hao
-    - name: Contact
+    - name: Month of Birth
+      value: May, 2002
+    - name: Institution Email
       value: yh463@cam.ac.uk
     # - name: Languages
     #   value: English, German
@@ -12,11 +14,10 @@
   type: time_table
   contents:
     - title: B.A. in Information and Computer Engineering
-      institution: University of Cambridge, UK
-      year: 2020.09 - 2024.06
-
-      # description:
-      #   - Description 1.
+      institution: University of Cambridge
+      year: 2020 - 2024
+      description:
+        - Ranked top 4% among 319 students. 
       #   - Description 2.
       #   - title: Description 3.
       #     contents:
@@ -28,7 +29,7 @@
   contents:
     - title: Research Intern
       institution: Swiss Federal Institute of Technology Lausanne (EPFL)
-      year: 2023.06 - 2023.09
+      year: 2023
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -38,7 +39,7 @@
       #       - Sub-description 2.
     - title: Research Intern
       institution: Microsoft Research Asia (MSRA)
-      year: 2022.07 - 2022.10
+      year: 2022 - 2023
       # description:
 
 
@@ -49,17 +50,21 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
-
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021 - 2023
+      items:
+        - College Scholarship & Tripos Prize 2023
+        - College Scholarship & Tripos Prize 2022
+        - College Scholarship & Tripos Prize 2021
+    - year: 2019
+      items:
+        - FIRST Robotics Competition - Winner
+    - year: 2018
+      items:
+        - Roboitics China Championship - 2nd Place
+        - FIRST Robotics Competition - Winner
 # - title: Academic Interests
 #   type: nested_list
 #   contents:

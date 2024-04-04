@@ -26,4 +26,3 @@ Previously, I was a research intern at EPFL under the [Summer@EPFL](https://summ
 
 **Research Interests** My research area lies broadly in Computer Vision, Machine Learning and Robotics. Specifically, I am interested in Generative Models and Multimodality for 2D/3D vision, as well as language, wireless, and acoustics. I am also excited about their applications in robotics and autonomous driving. 
 
-**I am actively looking for a Ph.D. position in 2024 Fall.**

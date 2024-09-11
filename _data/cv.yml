@@ -13,24 +13,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.A. in Information and Computer Engineering
+    - title: Ph.D. in Computer and Information Science
+      institution: University of Pennsylvania
+      year: 2024 - 
+      description:
+    - title: B.A. & M.E. in Information and Computer Engineering
       institution: University of Cambridge
       year: 2020 - 2024
       description:
         - Ranked top 4% among 319 students. 
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
       institution: Swiss Federal Institute of Technology Lausanne (EPFL)
-      year: 2023
-      # description:
+      year: Summer 2023
+      description:
+        - Hosted by Prof. Haitham Hassanieh and Prof. Saurabh Gupta (UIUC).
       #   - Description 1.
       #   - Description 2.
       #   - title: Description 3.
@@ -40,7 +40,8 @@
     - title: Research Intern
       institution: Microsoft Research Asia (MSRA)
       year: 2022 - 2023
-      # description:
+      description:
+       - Hosted by Dr. Yuhui Yuan and Dr. Han Hu.
 
 
 # - title: Open Source Projects
@@ -50,21 +51,14 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2021 - 2023
-      items:
-        - College Scholarship & Tripos Prize 2023
-        - College Scholarship & Tripos Prize 2022
-        - College Scholarship & Tripos Prize 2021
-    - year: 2019
-      items:
-        - FIRST Robotics Competition - Winner
-    - year: 2018
-      items:
-        - Roboitics China Championship - 2nd Place
-        - FIRST Robotics Competition - Winner
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2021 - 2023
+#       items:
+#         - College Scholarship & Tripos Prize 2023
+#         - College Scholarship & Tripos Prize 2022
+#         - College Scholarship & Tripos Prize 2021
 # - title: Academic Interests
 #   type: nested_list
 #   contents:

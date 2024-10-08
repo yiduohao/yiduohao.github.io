@@ -6,7 +6,8 @@ title: Yiduo Hao # the website title (if blank, full name will be used instead)
 first_name: Yiduo
 middle_name: 
 last_name: Hao
-email: yiduohao@seas.upenn.edu
+# email: yiduohao@seas.upenn.edu
+email: yh463@cantab.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Yiduo Hao.
 footer_text: >

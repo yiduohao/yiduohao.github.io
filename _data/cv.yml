@@ -13,10 +13,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Computer and Information Science
-      institution: University of Pennsylvania
-      year: 2024 - 
-      description:
+    # - title: Ph.D. in Computer and Information Science
+    #   institution: University of Pennsylvania
+    #   year: 2024 - 
+    #   description:
     - title: B.A. & M.E. in Information and Computer Engineering
       institution: University of Cambridge
       year: 2020 - 2024

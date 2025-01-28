@@ -26,3 +26,5 @@ social: true # includes social icons at the bottom of the page
 Hi! I finished my undergraduate studies at the University of Cambridge, supervised by [Prof. Jose Miguel Hernandez-Lobato](https://jmhl.org/) in the [Machine Learning Group](https://mlg.eng.cam.ac.uk/). Previously, I was a research intern advised by [Prof. Haitham Hassanieh](https://people.epfl.ch/haitham.alhassanieh/?lang=en) at EPFL and [Prof. Saurabh Gupta](https://saurabhg.web.illinois.edu/) at UIUC. Before that, I was fortunate to intern in the Visual Computing Group at Microsoft Research Asia (MSRA), collaborating with [Dr. Yuhui Yuan](https://www.microsoft.com/en-us/research/people/yuyua/) and [Dr. Han Hu](https://ancientmooner.github.io/). 
 
 My research area lies broadly in Computer Vision and Machine Learning. Specifically, I am interested in 3D Computer Vision, Multimodal Learning and Generative Models. I am also excited about their applications to AI Agents, Robotics, and Autonomous Driving. 
+
+Email: yiduohao at seas dot upenn dot edu
